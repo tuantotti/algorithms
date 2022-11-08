@@ -1,9 +1,9 @@
-package com.algorithm.trees;
+package com.algorithm.trees.merkle;
 
 import java.util.Arrays;
 import java.util.List;
 
-import static com.algorithm.trees.Hashing.compute;
+import static com.algorithm.trees.merkle.Hashing.compute;
 
 public class Main {
 

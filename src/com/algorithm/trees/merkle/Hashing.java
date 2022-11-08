@@ -1,4 +1,4 @@
-package com.algorithm.trees;
+package com.algorithm.trees.merkle;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

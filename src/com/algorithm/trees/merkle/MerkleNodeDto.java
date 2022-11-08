@@ -1,4 +1,4 @@
-package com.algorithm.trees;
+package com.algorithm.trees.merkle;
 
 public class MerkleNodeDto {
     private String address;
